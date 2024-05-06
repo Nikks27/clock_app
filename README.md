@@ -1,16 +1,14 @@
-# clock_app
+# Timer App
 
-A new Flutter project.
+<h3 align="center"> 1.Timer App </h3>
 
-## Getting Started
+<h1 align="left"></h1>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<div align ="center">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <img src = "https://github.com/Nikks27/clock_app/assets/148762716/fdf52719-b834-4572-ad62-6e6585780d19" height ="550">
+    <img src = "https://github.com/Nikks27/clock_app/assets/148762716/9fd6e53c-d9a0-46b6-9d9c-0dd7997ee305" height ="550">
+      <img src = "https://github.com/Nikks27/clock_app/assets/148762716/d2c919e9-ab49-4ca4-89e9-ae0e41bd58b8" height ="550">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
