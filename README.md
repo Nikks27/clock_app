@@ -12,3 +12,7 @@
       <img src = "https://github.com/Nikks27/clock_app/assets/148762716/d2c919e9-ab49-4ca4-89e9-ae0e41bd58b8" height ="550">
 </div>
 
+
+
+https://github.com/Nikks27/clock_app/assets/148762716/d31a4018-8414-4187-984e-0bec323ff7ad
+
